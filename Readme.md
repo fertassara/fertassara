@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **other programming languages as well as libraries and frameworks.**
 
-- 💬 Ask me about **I'm a passionate young designer specializing in full stack development. I'm always on the lookout for new challenges and opportunities to learn and grow in the exciting world of technology.**
+- 💬 I'm a passionate young designer specializing in full stack development. I'm always on the lookout for new challenges and opportunities to learn and grow in the exciting world of technology.**
 
 - 📫 How to reach me **fernandotassaradev@gmail.com**
 
